@@ -21,16 +21,8 @@ http://localhost:3000
 
 ![Click Restart under Webserver](webserver.png)
 
-5. Open up another tab on your browser and go to
-```
-http://localhost:8080
-```
-6. That should be it!
+5. That should be it!
 
 ![Screenshot from Touchdesigner](touchdesigner.png)
 
 Note: You might have to refresh the posenet tab (The one pointed at localhost:3000)
-
-Note: The deal here is that we have to open 2 tabs, one to deal with the actual movenet pose recognition stuff and then another to get the pose data and then send it to Touchdesigner to be processed.
-	
-	
