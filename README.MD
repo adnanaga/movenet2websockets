@@ -18,11 +18,16 @@ http://localhost:3000
 ```
 3. Let’s open up our Touchdesigner file - Poses.toe and very briefly what’s going on here is we start up a web server to receive the websockets from `index.html` we opened up at `localhost:3000`
 4. Click on the webserver dat and click restart
+
+![Click Restart under Webserver](webserver.png)
+
 5. Open up another tab on your browser and go to
 ```
 http://localhost:8080
 ```
 6. That should be it!
+
+![Screenshot from Touchdesigner](touchdesigner.png)
 
 Note: You might have to refresh the posenet tab (The one pointed at localhost:3000)
 
